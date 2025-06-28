@@ -1,6 +1,5 @@
 👋 Hi, I’m Btissam M'kouka
   •	👀 I’m interested in Artificial Intelligence, Machine Learning, Data Science, and Embedded Systems.
-	•	🌱 I’m currently learning Advanced AI techniques, Business Intelligence, and Embedded AI applications.
 	•	💞️ I’m looking to collaborate on AI-driven projects, speech recognition systems, and smart embedded solutions.
 	•	📫 How to reach me: [M'kouka Btissam on Linkedin].
 	•	😄 Pronouns: She/Her.
