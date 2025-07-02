@@ -1,7 +1,7 @@
 👋 Hi, I’m Btissam M'kouka
   •	 I’m interested in Artificial Intelligence, Machine Learning, Data Science, and Embedded Systems.
 	•	 I’m looking to collaborate on AI-driven projects and smart embedded solutions.
-	•	📫 How to reach me: [M'kouka Btissam on Linkedin].
+	•	📫 How to reach me: [Mkouka Btissam on Linkedin].
 	•	 Fun fact: I have a strong passion for robotics and automation, and I’m always looking for innovative ways to integrate AI into real-world applications!
 
 <!---
