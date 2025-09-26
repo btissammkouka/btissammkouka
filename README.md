@@ -67,4 +67,4 @@ Real-time, low-cost, and reliable fire detection and alert system based on compu
 
 ---
 
-### 🔥 Thank you for visiting my profile! Let's build something amazing together 🚀
+### Thank you for visiting my profile! Let's build something amazing together 
