@@ -44,6 +44,13 @@ Real-time system to detect Morrocan emergency vehicles (ambulances, fire trucks,
 
 ---
 
+### Costumer Churn Prediction
+Predicting customer churn using machine learning. Includes Neural Network and Ensemble Stacking models, with techniques for handling imbalanced and noisy data.
+
+> [GitHub Repo](https://github.com/btissammkouka/Churn-prediction)
+
+---
+
 ### Fire Detection and Alert System using YOLOv5
 Real-time, low-cost, and reliable fire detection and alert system based on computer vision, designed to run on embedded device Raspberry Pi 4. The system uses YOLOv5n, a lightweight object detection model, to detect fire in live video streams and trigger alerts through sound, light, and SMS notifications.
 
