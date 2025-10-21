@@ -14,7 +14,7 @@
 
 ## 🛠️ Skills
 
-- **AI & ML:** Machine Learning, Deep Learning, NLP, Computer Vision  
+- **AI & ML:** Machine Learning, Deep Learning, NLP, Computer Vision, MCP, AI Agent
 - **IoT & Embedded Systems:** Arduino, Sensor Integration, Real-time Systems  
 - **Data & Tools:** Power BI, Pandas, Scikit-learn, Git, Docker, TensorFlow, PDI  
 - **Soft Skills:** Critical Thinking, Time Management, Team Collaboration
