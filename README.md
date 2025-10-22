@@ -30,6 +30,14 @@ Named Entity Recognition (NER) for Biological Entities of Fish Species using the
 
 ---
 
+### Data Poisoned Detection
+Detecting poisoned data within deep learning models trained on the CIFAR-10 dataset using a probabilistic anomaly detection approach
+
+> [GitHub Repo](https://github.com/btissammkouka/Data-Poisoning-Detection)
+
+---
+
+ 
 ### Moroccan Census Data Visualization (2004,2014,2024)
 Interactive Dashboard for visualization of Moroccan census data(HCP), with a particular emphasis on demographics and education levels, using Pentaho Data Integration, and visualized with Power BI.
 
