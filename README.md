@@ -70,6 +70,7 @@ Real-time, low-cost, and reliable fire detection and alert system based on compu
 ## 📜 Certifications
 
 - ✅ Machine Learning Specialization – DeepLearning.AI
+- ✅ Intro to AI Agents and Agentic AI – 365 Data Science
 - ✅ EF SET English Certificate – C1 Level
 - 🏅 2nd Place – Hackathon - CADDI Ayaad University
 - 🏅 6th Place – National Competition Hack AI- UM6P
