@@ -80,6 +80,7 @@ Fine-tuning OpenAI's Whisper Small model to transcribe Moroccan Darija audio dir
 - ✅ Machine Learning Specialization – DeepLearning.AI
 - ✅ Intro to AI Agents and Agentic AI – 365 Data Science
 - ✅ EF SET English Certificate – C1 Level
+- 🎓 Seminar Presentation – Collaborative research with IRD, France
 - 🏅 2nd Place – Hackathon - CADDI Ayaad University
 - 🏅 6th Place – National Competition Hack AI- UM6P
 - 🏅 6th Place – National Data Science Competition (NDSC)- UM6P 
