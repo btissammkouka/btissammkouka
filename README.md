@@ -65,7 +65,12 @@ Real-time, low-cost, and reliable fire detection and alert system based on compu
 > [GitHub Repo](https://github.com/btissammkouka/Fire-detection)
 
 ---
+### Skin Lesion Analysis for Disease Prevention
+Automated classification of skin lesions using the ISIC 2019 dataset. This project implements a robust preprocessing pipeline and compares state-of-the-art CNN architectures to support early diagnosis of skin cancer—especially Melanoma.
 
+> [GitHub Repo](https://github.com/btissammkouka/Skin-Lesion-Analysis)
+
+---
 ### Whisper Fine-Tuning for Moroccan Darija (Latin Script)
 Fine-tuning OpenAI's Whisper Small model to transcribe Moroccan Darija audio directly into Latin script (Chat Darija) with Parameter-Efficient Fine-Tuning, so force the model to output Latin script (e.g., "kifach") instead of Arabic script (e.g., "كيفاش").
 
