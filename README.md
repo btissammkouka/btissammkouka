@@ -72,7 +72,7 @@ Automated classification of skin lesions using the ISIC 2019 dataset. This proje
 
 ---
 ### Whisper Fine-Tuning for Moroccan Darija (Latin Script)
-Fine-tuning OpenAI's Whisper Small model to transcribe Moroccan Darija audio directly into Latin script (Chat Darija) with Parameter-Efficient Fine-Tuning, so force the model to output Latin script (e.g., "kifach") instead of Arabic script (e.g., "كيفاش").
+Fine-tuning OpenAI's Whisper Small model to transcribe Moroccan Darija audio directly into Latin script (Chat Darija) with Parameter-Efficient Fine-Tuning(PEFT), so force the model to output Latin script (e.g., "kifach") instead of Arabic script (e.g., "كيفاش").
 
 > [GitHub Repo](https://github.com/btissammkouka/whisper_darija_finetuned)
 
