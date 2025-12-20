@@ -90,6 +90,8 @@ Automated classification of skin lesions using the ISIC 2019 dataset. This proje
 
 - ✅ Machine Learning Specialization – DeepLearning.AI
 - ✅ Intro to AI Agents and Agentic AI – 365 Data Science
+- ✅ AWS Academy- Machine Learning Foundations
+- ✅ CI/CD for Machine Learning - DataCamp
 - ✅ EF SET English Certificate – C1 Level
 - 🎓 Seminar Presentation – Collaborative with IRD, France
 - 🏅 2nd Place – Hackathon - CADDI Ayaad University
