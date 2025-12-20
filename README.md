@@ -37,11 +37,16 @@ Detecting poisoned data within deep learning models trained on the CIFAR-10 data
 
 ---
 
- 
 ### Moroccan Census Data Visualization (2004,2014,2024)
 Interactive Dashboard for visualization of Moroccan census data(HCP), with a particular emphasis on demographics and education levels, using Pentaho Data Integration, and visualized with Power BI.
 
 > [GitHub Repo](https://github.com/btissammkouka/Moroccan-census)
+
+---
+### AI Generative - LinkedIn Intelligent Agent scrapp
+A solution for automating LinkedIn workflows. It combines advanced web scraping (using Playwright and MCP), AI-driven data enrichment (Claude-Sonnet), and an intelligent agent for database system to help you find, analyze, and connect with professionals using autonomous agent for send personalized emails from email-files.csv.
+
+> [GitHub Repo](https://github.com/btissammkouka/AI_Generative)
 
 ---
 
@@ -59,6 +64,12 @@ Predicting customer churn using machine learning. Includes Neural Network and En
 
 ---
 
+### Whisper Fine-Tuning for Moroccan Darija (Latin Script)
+Fine-tuning OpenAI's Whisper Small model to transcribe Moroccan Darija audio directly into Latin script (Chat Darija) with Parameter-Efficient Fine-Tuning(PEFT), so force the model to output Latin script (e.g., "kifach") instead of Arabic script (e.g., "كيفاش").
+
+> [GitHub Repo](https://github.com/btissammkouka/whisper_darija_finetuned)
+---
+
 ### Fire Detection and Alert System using YOLOv5
 Real-time, low-cost, and reliable fire detection and alert system based on computer vision, designed to run on embedded device Raspberry Pi 4. The system uses YOLOv5n, a lightweight object detection model, to detect fire in live video streams and trigger alerts through sound, light, and SMS notifications.
 
@@ -70,11 +81,6 @@ Automated classification of skin lesions using the ISIC 2019 dataset. This proje
 
 > [GitHub Repo](https://github.com/btissammkouka/Skin-Lesion-Analysis)
 
----
-### Whisper Fine-Tuning for Moroccan Darija (Latin Script)
-Fine-tuning OpenAI's Whisper Small model to transcribe Moroccan Darija audio directly into Latin script (Chat Darija) with Parameter-Efficient Fine-Tuning(PEFT), so force the model to output Latin script (e.g., "kifach") instead of Arabic script (e.g., "كيفاش").
-
-> [GitHub Repo](https://github.com/btissammkouka/whisper_darija_finetuned)
 
 
 
