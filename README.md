@@ -81,8 +81,12 @@ Automated classification of skin lesions using the ISIC 2019 dataset. This proje
 
 > [GitHub Repo](https://github.com/btissammkouka/Skin-Lesion-Analysis)
 
+---
+### Hybrid Recommender System
+A Hybrid Recommendation System combining Collaborative Filtering (SVD) and Content-Based Filtering (TF-IDF) to deliver personalized product recommendations.
+Built with FastAPI, scikit-learn, and SQLAlchemy, with robust cold-start handling.
 
-
+> [GitHub Repo](https://github.com/btissammkouka/Recommender_system)
 
 ---
 
