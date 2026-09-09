@@ -6,7 +6,7 @@
 ## 💡 About Me
 
 🎓 M.Sc. in Artificial Intelligence from Cadi Ayyad University (UCA), Morocco  
-💼 Research Engineering Internship at Ruhr University Bochum, Germany
+💼 Research Engineering Internship at Ruhr University Bochum, Germany    
 🔬 Experience in applied AI research and the development of end-to-end intelligent systems   
 🔍 Interested in trustworthy machine learning, autonomous AI systems, distributed intelligence, NLP, and Generative AI  
 🧠 Focused on building reliable AI solutions and evaluating them in real-world settings     
