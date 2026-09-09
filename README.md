@@ -7,7 +7,7 @@
 
 🎓 M.Sc. in Artificial Intelligence from Cadi Ayyad University (UCA), Morocco  
 🔬 Experience in applied AI research and the development of end-to-end intelligent systems in academic and industrial environments  
-🔍 Interested in trustworthy machine learning, autonomous AI systems, distributed intelligence, Computer Vision, NLP, and Generative AI  
+🔍 Interested in trustworthy machine learning, autonomous AI systems, distributed intelligence, NLP, and Generative AI  
 🧠 Focused on building reliable AI solutions and evaluating them in real-world settings     
 
 ---
