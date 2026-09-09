@@ -5,10 +5,9 @@
 
 ## 💡 About Me
 
-🎓 Master’s student in Artificial Intelligence at UCA, Morocco  
+🎓 AI Researcher | M.Sc. in Artificial Intelligence
 🔍 Interested in AI, Computer Vision, NLP, and AI Generative      
-🧠 Passionate about building real-world solutions with AI and smart systems    
-📈 I love hackathons, research challenges, and applied ML/AI projects   
+🧠 Passionate about building real-world solutions with AI and smart systems       
 
 ---
 
