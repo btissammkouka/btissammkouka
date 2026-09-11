@@ -63,7 +63,7 @@ Published in *AI and Digital Twins Under Siege: Combating Dark Intelligence Thro
 ---
 ## 📂 Featured Projects
 
-### Semantic-Driven Autonomous AI Service Orchestration at the Extreme Edge
+### LLM-Based Autonomous Orchestration for Intelligent Service Placement in Dynamic Extreme Edge Clusters
 A research platform that understands application needs, selects suitable AI services, and manages their deployment across dynamic and heterogeneous extreme-edge environments.
 
 > [GitHub Repo](https://github.com/btissammkouka/edge-orchestration)
