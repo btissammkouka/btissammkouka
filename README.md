@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm M'kouka Btissam</h1>
-<h3 align="center">AI Researcher | M.Sc. in Artificial Intelligence</h3>
+<h3 align="center">AI Researcher Engineer | M.Sc. in Artificial Intelligence</h3>
 
 ---
 
